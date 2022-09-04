@@ -1,4 +1,3 @@
-algoritma
 Algoritma:
 Step 1 Jika n = 0, return nilai m sebagai hasil dan stop. Jika tidak, kembali ke Step 2.
 Step 2 Bagi nilai m dengan n, masukan nilai sisanya ke r.
