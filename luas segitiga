@@ -1,8 +1,8 @@
 Algoritma 
 step 1 mendeklerasika luas, alas, dan tinggi
-step 2 masukan alas = 25, tinggi= 30
+step 2 input alas = 25, tinggi= 30
 step 3 menghitung luas = 1/2 * alas *tinggi
-step 4 menampilkan luas
+step 4 tampilkan luas
 
 pseudecode
 deklerasi 
