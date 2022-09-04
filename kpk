@@ -1,5 +1,5 @@
 algoritma:
-tentukan nilai dari a dan b terlebih dahulu
+tentukan nilai dari a dan b lebih dahulu
 
 step 1 jika b = 0 maka a menjadi hasil dan selesai. jika b tidak sama dengan 0, lanjut
 step 2 jika r merupakan hasil FPB dari a dan b
