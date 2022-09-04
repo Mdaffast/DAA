@@ -1,7 +1,7 @@
 algoritma 
 Algoritma
-step 1 mendeklerasika volume, phi, diameter, dan tinggi.
-step 2 masukan nilai phi=3,14 diameter =5 dan tinggi =4
+step 1 mendeklerasikan volume, phi, diameter, dan tinggi.
+step 2 masukan nilai phi= 3,14 diameter = 5 dan tinggi = 4
 step 3 menghitung volume = 1/3*phi*diameter*tinggi
 step 5 menampilkan hasil dari volume kerucut
 
