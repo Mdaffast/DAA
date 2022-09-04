@@ -1,8 +1,8 @@
 Algoritma 
 step 1 deklerasi luas, panjang, tinggi
-step 2 masukan panjang = 5, tinggi= 3
-step 3 menghitung luas = panjang *tinggi
-step 4 menampilkan luas
+step 2 input panjang = 5, tinggi= 3
+step 3 hitung luas = panjang *tinggi
+step 4 tampilkan luas
 
 pseudecode
 deklerasi
